@@ -19,4 +19,4 @@ npm run test
 npm run ct # compile and test both
 ```
 
-You can try experimenting to use the version control program on the source code itself (much like git). Run `node ./main.js .`, and it will create a `./backups` folder with a current snapshot of the repository. This snapshot is stored as a json file. The '.ignore' file is used to ignore files and folders.
+You can try experimenting to use the version control program on the source code itself (much like git). Run `node ./main.js .`, and it will create a `./backups` folder with a current snapshot of the repository. This snapshot is stored as a json file. The '.gitignore' file is used to ignore files and folders.
